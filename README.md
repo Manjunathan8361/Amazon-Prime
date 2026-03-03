@@ -8,7 +8,7 @@ The dashboard provides a clear overview of movies and TV shows available on the 
 
 📊 Dashboard Preview
 
-![Prime Video Dashboard](amazon prime dashboard_overview.png)
+![Prime Video Dashboard](prime_video_dashboard_overview.png)
 
 🎯 Business Problem
 
