@@ -5,6 +5,9 @@
 This project presents an interactive Power BI dashboard analyzing Amazon Prime Video content data. The objective is to explore content distribution, genre performance, rating classification, and release trends to uncover insights about streaming content growth and audience targeting.
 
 The dashboard provides a clear overview of movies and TV shows available on the platform and highlights content trends over time.
+📊 Dashboard Preview
+
+![Prime Video Dashboard](amazon prime dashboard_overview.png)
 
 🎯 Business Problem
 
